@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "staging": "tcerp-newversion",
+    "default": "new-blogs-seo-tcerp",
+    "web": "web-tcerp",
+    "n": "tcerp-website-63875",
+    "na": "new-blogs-seo-tcerp"
+  },
+  "targets": {},
+  "etags": {}
+}
